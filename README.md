@@ -1,2 +1,2 @@
-# this is my project URL
-https://iamcodermonika26.github.io/single-page-cv/
+# this is my project Page URL
+https://roadmap.sh/projects/single-page-cv
